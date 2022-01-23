@@ -28,3 +28,6 @@ ads.wijeyadigital.lk
 www.sri-ads.com
 lanka-ads.lk
 download.dvr163.com
+iot.dvr163.com
+openapi.dvr163.com
+ngw.dvr163.com
