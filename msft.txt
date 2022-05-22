@@ -58,9 +58,6 @@ trafficmanager.net
 www.trafficmanager.net
 g.live.com
 live.com
-login.live.com
-onedrive.live.com
-storage.live.com
 www.live.com
 cdn.uci.officeapps.live.com
 config.officeapps.live.com
@@ -109,7 +106,6 @@ atm-fp-direct.office.com
 ecs.office.com
 loki.delve.office.com
 lpcres.delve.office.com
-outlook.office.com
 office.com
 upload.fp.measure.office.com
 upload2.fp.measure.office.com
@@ -126,7 +122,6 @@ support.content.office.net
 teams.nel.measure.office.net
 www.office.net
 office365.com
-outlook.office365.com
 ow1.res.office365.com
 r4.res.office365.com
 www.office365.com
